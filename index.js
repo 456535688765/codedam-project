@@ -1,1 +1,1 @@
-let apiKey = "Enter You api key"
+let apiKey = "Replace this with your api key"
